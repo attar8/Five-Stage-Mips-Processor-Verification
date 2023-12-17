@@ -1,0 +1,2 @@
+  CREATE_STREAM @10000 {NAME:processor_seq T:Transactions SCOPE:uvm_test_top.env.agent.sequencer STREAM:786}
+  CREATE_STREAM @10000 {NAME:inst_seq T:Transactions SCOPE:uvm_test_top.env.agent.sequencer STREAM:792}
